@@ -19,6 +19,11 @@ http://localhost:8081/users/1/100
 
 http://localhost:8081/users/2/100
 
+Time taken for 1M records:
+
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/34954645/181029867-b6fdc2e8-a406-42f6-9652-314895d0a22a.png">
+
+
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/34954645/180916968-86bbcbe6-8915-4b56-aea6-d3da8d92fed5.png">
 <img width="338" alt="image" src="https://user-images.githubusercontent.com/34954645/180917008-33c7d74b-6e1c-4823-a693-3e5725b24cc6.png">
 
