@@ -13,7 +13,9 @@ Run the below urls for requird result
 
 Search users with in range :
 http://localhost:8081/users/0/100
+
 http://localhost:8081/users/1/100
+
 http://localhost:8081/users/2/100
 
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/34954645/180916968-86bbcbe6-8915-4b56-aea6-d3da8d92fed5.png">
@@ -23,8 +25,11 @@ http://localhost:8081/users/2/100
 
 Sort Users with in the range : 
 http://localhost:8081/users/sort/0/100?sort=age,desc
+
 http://localhost:8081/users/sort/0/100?sort=age,asc
+
 http://localhost:8081/users/sort/0/100?sort=name,desc
+
 http://localhost:8081/users/sort/0/100?sort=name,asc
 
 <img width="422" alt="image" src="https://user-images.githubusercontent.com/34954645/180917042-2acda22d-917c-49b0-bee4-fd977324ce77.png">
@@ -34,6 +39,7 @@ http://localhost:8081/users/sort/0/100?sort=name,asc
 
 Filter Users with Given value : 
 http://localhost:8081/users/filter/age?age=50
+
 http://localhost:8081/users/filter/name?name=drbomqoisx
 
 <img width="457" alt="image" src="https://user-images.githubusercontent.com/34954645/180917099-b516fee8-1b60-4cca-bb34-d2e74711abc7.png">
