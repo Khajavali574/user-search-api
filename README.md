@@ -12,6 +12,7 @@ java -jar UserDetatils-0.0.1-SNAPSHOT.jar
 Run the below urls for requird result
 
 Search users with in range :
+
 http://localhost:8081/users/0/100
 
 http://localhost:8081/users/1/100
@@ -24,6 +25,7 @@ http://localhost:8081/users/2/100
 
 
 Sort Users with in the range : 
+
 http://localhost:8081/users/sort/0/100?sort=age,desc
 
 http://localhost:8081/users/sort/0/100?sort=age,asc
@@ -38,6 +40,7 @@ http://localhost:8081/users/sort/0/100?sort=name,asc
 
 
 Filter Users with Given value : 
+
 http://localhost:8081/users/filter/age?age=50
 
 http://localhost:8081/users/filter/name?name=drbomqoisx
